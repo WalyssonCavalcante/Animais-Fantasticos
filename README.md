@@ -25,7 +25,7 @@ Projeto de website que exibe e interage com dados de animais fantásticos. O int
 <h3> Execute no terminal:</h3>
 
 ```sh
-git clone https://github.com/AkiroSetonai/Animais-Fantasticos.git
+git clone https://github.com/WalyssonCavalcante/Animais-Fantasticos.git
 ```
 
 <h3> Acesse o Diretório do Projeto: </h3>
